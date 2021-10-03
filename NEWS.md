@@ -1,3 +1,2 @@
-﻿# easyPSID 0.1.1
-- Added support for 2017 Family and Individual Files
-- Lost support for 2015 Individual File
+﻿# easyPSID 0.1.2
+- Added support for 2019 Family Files and 2019 Individual cross-sectional file. Please note that support for the 2017 version of the Individual cross-sectional is no longer supported in this version of the package.
